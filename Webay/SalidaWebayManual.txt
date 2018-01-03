@@ -1,0 +1,51 @@
+Estado:1
+Dato:w
+
+Estado:2,4
+Dato:e
+
+Estado:3,5
+Dato:b
+Se ha encontrado la subcadena web.
+
+Estado:1
+Dato:w
+
+Estado:2,4
+Dato:e
+
+Estado:3,5
+Dato:b
+Se ha encontrado la subcadena web.
+
+Estado:0
+Dato: 
+
+Estado:1
+Dato:w
+
+Estado:2,4
+Dato:e
+
+Estado:3,5
+Dato:b
+Se ha encontrado la subcadena web.
+
+Estado:6
+Dato:a
+
+Estado:7
+Dato:y
+
+Se ha encontrado la subcadena ebay.
+
+Estado:0
+Dato:y
+
+Se ha encontrado la subcadena web: 3 veces
+
+Se ha encontrado la subcadena ebay: 1 veces
+
+Las posiciones de la subcadena web son: 0 3 7 
+
+Las posiciones de la subcadena ebay son: 8 
