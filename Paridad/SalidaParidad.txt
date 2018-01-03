@@ -1,0 +1,15 @@
+Estado:0
+Numero:0
+
+Estado:1
+Numero:0
+
+Estado:0
+Numero:1
+
+Estado:3
+Numero:1
+
+Estado:0
+Numero:0
+

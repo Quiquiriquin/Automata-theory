@@ -1,0 +1,1 @@
+Hola, este archivo es de prueba para comprobar si hay palabras peligrosas como engano, copiar, falso. Aunque todo esto puede ser un engano, el profesor se dara cuenta de que todo esto funciona como deberia de ser ya que no hay ninguna violencia al programa. falsificar 
